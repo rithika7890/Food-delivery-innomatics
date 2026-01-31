@@ -1,0 +1,1 @@
+This repository contains my complete work for the Food Delivery Data Analysis Hackathon.This project is to understand user behavior, restaurant performance, and revenue patterns by combining multiple data sources into a single, clean dataset and performing analysis on it.
